@@ -13,7 +13,7 @@ public class Exercicio07 {
             System.out.println("Qual é o símbolo químico da água?");
             System.out.println("a) CO₂");
             System.out.println("b) H₂O");
-            System.out.println("c) O₂)");
+            System.out.println("c) O₂");
 
             System.out.println("Qual a alternativa correta? ");
             String alternativa = scanner.next();
