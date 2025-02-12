@@ -5,7 +5,7 @@ public class Exercicio02 {
         Scanner scanner = new Scanner(System.in);
         int quantIdade = 0, quantAltura = 0, quantPeso = 0;
 
-        for(int i=1; i <= 2; i++){
+        for(int i=1; i <= 10; i++){
 
             System.out.println("Pessoa " + i +":");
 
